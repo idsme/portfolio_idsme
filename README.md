@@ -1,9 +1,10 @@
-# Portfolio Template
+# Portfolio Template Idsme is hosted on IPFS using fleek.
+current location https://noisy-hat-1004.on.fleek.co
 
 ## Technology Stack & Tools
 
 - Javascript (React)
-- [Fleek](https://fleek.co/) (Website Deployment)
+- [Fleek](https://fleek.co/) (Website Deployment) login with GitHub account
 
 ## Setting Up
 ### 1. Clone/Download the Repository
@@ -45,3 +46,10 @@ For the basic build settings, it should automatically detect *Create React App*.
 You can leave **Base Directory** empty then click on Deploy site.
 
 After the build is complete, the link to the site will be shown at the end of the console output.
+
+# Extra stap couple a real domain name to website.
+
+
+# TODO 
+* Add icons to convert socials from buttons to Icons.
+* 
