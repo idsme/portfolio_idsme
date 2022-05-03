@@ -96,6 +96,16 @@ code {
   max-width: 75ch;
 }
 
+.about ul {
+  margin: 0 0 10px 50px;
+}
+
+.about li {
+  font-size: 18px;
+  line-height: 130%;
+  margin: 15px auto;
+}
+
 /* ------------------------------------------------------ */
 /* -- Projects -- */
 
