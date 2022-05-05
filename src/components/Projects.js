@@ -1,6 +1,7 @@
 // Import Assets
 import web3 from '../assets/WEB3_Final.jpg';
 import adhd from '../assets/ADHD_Word_Cloud_in_Blue.png';
+import sometoken from '../assets/CreateMyOwnToken_SOME_on_binance_test_net_cropped.png';
 
 const Projects = () => {
     return (
@@ -20,7 +21,7 @@ const Projects = () => {
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/idsme/portfolio_idsme" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/idsme/web3-caland3-tutorial" target="_blank" className="button">Code</a>
                 </div>
                 <div className="projects__card">
                     <h3>Task Tracker Kids</h3>
@@ -32,7 +33,7 @@ const Projects = () => {
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/idsme/portfolio_idsme" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/idsme/get_it_done_vue" target="_blank" className="button">Code</a>
                 </div>
                 <div className="projects__card">
                     <h3>Web3 IPFS portfolio</h3>
@@ -48,6 +49,15 @@ const Projects = () => {
 
                     <a href="" target="_blank" className="button">Site</a>
                     <a href="https://github.com/idsme/portfolio_idsme" target="_blank" className="button">Code</a>
+                </div>
+                <div className="projects__card">
+                    <h3>My crypto token</h3>
+                    <img src={sometoken} alt="Uniswap Swap Page" />
+                    <p>
+                        The best token ever .. The one the only SOME-thing token ;)
+                    </p>
+                    <a href="https://testnet.bscscan.com/address/0xF7c6046C18ac8F8Ac78264e20f91a2e4a18664F7" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/idsme/ids-token" target="_blank" className="button">Code</a>
                 </div>
             </div>
         </section>
