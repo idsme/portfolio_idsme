@@ -12,6 +12,9 @@ function App() {
 		<div className="App">
 			<Header />
 			<Projects />
+			// Add React + Solidity => (Leon, Blockchain dev, React Frontend Dev)
+			// Add Vue + Task Manager => (Vuejs dev, interview)
+			// Add Code Challenge Angular => (Angular inteview, More body, to profile but more diverse )
 			<About />
 			<Experience />
 			<Certs />

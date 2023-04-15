@@ -59,6 +59,15 @@ const Projects = () => {
                     <a href="https://testnet.bscscan.com/address/0xF7c6046C18ac8F8Ac78264e20f91a2e4a18664F7" target="_blank" className="button">Site</a>
                     <a href="https://github.com/idsme/ids-token" target="_blank" className="button">Code</a>
                 </div>
+                <div className="projects__card">
+                    <h3>Angular Challenge</h3>
+                    <img alt="code challenge" />
+                    <p>
+                        Next Level Rxjs autocomplete
+                    </p>
+                    <a href="https://testnet.bscscan.com/address/0xF7c6046C18ac8F8Ac78264e20f91a2e4a18664F7" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/idsme/ids-token" target="_blank" className="button">Code</a>
+                </div>
             </div>
         </section>
     );
